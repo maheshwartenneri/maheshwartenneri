@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheshwartenneri
-- 👀 I’m interested in data analytics projects
+- 👀 I’m interested in data analytics and DevOps projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on AWS Redshift
 - 📫 How to reach me maheshwartenneri95@gmail.com
