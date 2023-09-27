@@ -1,12 +1,12 @@
 # Hello, I'm Maheshwar Tenneri 👋
 
-I'm a DevOps and Cloud Engineer with 7 years of expertise in various domains, including cloud computing, Build and Release Engineering, and automation. I'm passionate about leveraging technology to build efficient and scalable systems.
+I'm a DevOps and Cloud Engineer with 6 years of expertise in various domains, including cloud computing, Build and Release Engineering, and automation. I'm passionate about leveraging technology to build efficient and scalable systems.
 
 ## About Me
 
 - 💼 Over 6 years of experience in DevOps, Cloud computing, Build and Release Engineering, and automation.
 - 🌟 Proficient in a wide range of technologies, including Hadoop, Spark, Hive, Tableau, Azure, and AWS services.
-- 💡 Experienced in DevOps/Agile operations processes, feasibility studies, and cost-effective cloud solutions with a focus on AWS and Azure.
+- 💡 Experienced in DevOps/Agile operations processes, feasibility studies, and cost-effective cloud solutions on AWS and Azure.
 - 🔗 Strong knowledge of version control systems, including centralized (SVN) and distributed (Git) systems.
 - ⚙️ Designed and implemented service discovery on EKS with hands-on experience in Kubernetes services.
 - 📊 Worked with vendors and different Engineering Product Groups on various IT solutions.
@@ -14,13 +14,13 @@ I'm a DevOps and Cloud Engineer with 7 years of expertise in various domains, in
 - 🐳 Experienced in working with Micro-service architecture-based applications using Docker.
 - 🐍 Good knowledge of using Bash and Python with BotoS3 automation provided by Ansible and Terraform.
 - ☁️ Efficient in building and configuring cloud infrastructure using Terraform as Infrastructure as Code (IaC).
-- 🚀 Contributed to Python libraries for deploying Kubernetes clusters using helm charts and an in-house tool (SSDT) for service deployments.
-- 📜 Skilled in development and execution of Shell and Perl Scripts for resolving build problems, release issues, and environment challenges.
+- 🚀 Contributed to Python libraries for deploying Kubernetes clusters for service deployments.
+- 📜 Skilled in development and execution of Shell and Perl Scripts for resolving build, release & other challenges.
 - 📊 Practical knowledge of utilizing R and Python for data management.
 - 🗣️ Excellent communication, interpersonal, analytical, and leadership skills.
-- 🐳 Experience in implementing and managing containerization technologies (Docker) and container orchestration platforms (Kubernetes) within CI/CD pipelines.
 - 🚀 Implemented CI/CD pipelines using Git for seamless collaboration and code management.
 - 📊 Proficient in Kafka and Jenkins for real-time data streaming and continuous integration.
+-  🐳 Experience in implementing and managing containerization technologies (Docker) and container orchestration platforms (Kubernetes) within CI/CD pipelines.
 
 ## Technical Skills
 
