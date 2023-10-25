@@ -4,7 +4,7 @@ I'm a DevOps and Cloud Engineer with 6 years of expertise in various domains, in
 
 ## About Me
 
-- 💼 Over 6 years of experience in DevOps, Cloud computing, Build and Release Engineering, and automation.
+- 💼 Over 7 years of experience in DevOps, Cloud computing, Build and Release Engineering, and automation.
 - 🌟 Proficient in a wide range of technologies, including Hadoop, Spark, Hive, Tableau, Azure, and AWS services.
 - 💡 Experienced in DevOps/Agile operations processes, feasibility studies, and cost-effective cloud solutions on AWS and Azure.
 - 🔗 Strong knowledge of version control systems, including centralized (SVN) and distributed (Git) systems.
